@@ -3,3 +3,18 @@
     float: left;
     margin: 12px;
 }
+
+body {
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+div {
+    color: green;
+}
+
+h1 {
+    font-size: 75px;
+    text-align: center;
+}
